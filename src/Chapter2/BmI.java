@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class BmI {
     public static void main(String[] args) {
+        //THIS IS  A BMI CALCULATOR
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your weight in pounds ");
         double weight = scanner.nextDouble();
